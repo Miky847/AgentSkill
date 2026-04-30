@@ -1,5 +1,5 @@
 ---
-name: "Grammar Basic"
+name: "ngữ pháp"
 description: "Phân tích, phát hiện lỗi ngữ pháp và đề xuất cách viết chuyên nghiệp hơn."
 version: "1.1.0"
 author: "AI Developer"
