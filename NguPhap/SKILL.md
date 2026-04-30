@@ -1,5 +1,5 @@
 ---
-name: "Grammar Pro"
+name: "Ngu Phap"
 description: "Kiểm tra ngữ pháp tiếng Anh, giải thích chi tiết lỗi sai và dịch sang tiếng Việt."
 version: "1.2.0"
 author: "MV Developer"
